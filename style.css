@@ -1,0 +1,19 @@
+body{
+  height:100vh;
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+}
+.button{
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border: 1px solid blue;
+  background-color: black;
+
+}
+#formSelector{
+  display:block;
+  padding: 2rem;
+  color:white;
+  text-decoration: none;
+
+}
